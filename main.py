@@ -1,1 +1,1 @@
-print("Ich heiße Andre Spiegel")
+print("Hello, my name is Andre Spiegel")
